@@ -1,6 +1,5 @@
 ## Matrix inversion caching procedure 
 ## Manuel Jose Munoz Calero (manuelj.munoz@gmail) 
-## 04/08/2016
 
 ## Execution example:
 ## > z <- matrix(c(1, 0, 1, 2, 4, 0, 3, 5, 6), 3, 3)
